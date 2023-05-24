@@ -1,0 +1,2 @@
+# Cabinet-project
+I solved the problem of developing a Java application for managing a dental clinic. The application handles three types of users: Doctor, Administrator, and Patient. Each user has a username, password, and user type. The solution involved reading user data from a text file, creating separate lists for valid users of each type, checking for uniqueness in the user list, and performing various operations on the user data, such as checking for a specific medical condition, counting COVID diagnoses, and sorting administrators.
