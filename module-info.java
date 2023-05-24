@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author darab
+ *
+ */
+module Cabinet {
+}
